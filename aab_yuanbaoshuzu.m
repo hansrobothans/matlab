@@ -1,6 +1,4 @@
-clc  
-clear 
-close all 
+clc  ,clear ,close all 
 %元胞数组操作函数
 %cell %生成元胞数组
 %cellstr %生成字符型元胞数组

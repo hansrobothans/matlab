@@ -1,12 +1,10 @@
-clc  
-clear 
-close all 
+clc  ,clear ,close all 
 
 %版本信息
 %ver
 
 %切换到工作目录
-%cd 'D:\programe\matlab'
+cd 'D:\GitHub\matlab'
 
 %使能工作目录，只需一次
 %pathtool
