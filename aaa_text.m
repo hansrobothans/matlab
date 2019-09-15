@@ -1,4 +1,5 @@
 clc  ,clear ,close all 
+%简单命令介绍和常用矩阵
 
 %版本信息
 %ver
@@ -54,6 +55,24 @@ cd 'D:\GitHub\matlab'
 
 %matlab程序注解符
 % %   %注释
+% 注释快捷键ctrl+r，ctrl+t
 %clc  %清屏操作
 %clear %清除workspace中各类型的所有数据，使得后续程序的运行变量之间不会相互冲突
 %close all %表示关闭所有的图形窗口，便于下一程序运行时更加直观的显示图形
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
